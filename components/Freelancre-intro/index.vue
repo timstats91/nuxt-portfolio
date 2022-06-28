@@ -11,10 +11,11 @@
           <div class="cont">
             <h1 class="cd-headline clip">
               Hello, My name is Tim Statler.
+              <br> I'm a full-stack developer and
               <br> I create 
               <span class="cd-words-wrapper">
                 <VueTyper
-                  :text="['Web Applications', 'Optimizations', 'Beautiful Designs']"
+                  :text="['Web Applications', 'Optimizations', 'Beautiful Designs', 'Tutorials']"
                   :repeat="Infinity"
                   initial-action="erasing"
                   :pre-type-delay="70"
@@ -24,7 +25,7 @@
                   erase-style="backspace"
                   caret-animation="smooth"
                   class="color-font fw-600"
-                ></VueTyper>
+                ></VueTyper>.
               </span>
             </h1>
           </div>
@@ -58,12 +59,12 @@
             </li>
 
             <li class="mail-us">
-              <a href="mailto:your@email.com?subject=Subject">
+              <a href="mailto:timstats91@gmail.com?subject=Subject">
                 <div class="flex">
                   <div class="text valign">
                     <div class="full-width">
                       <p>Get In Touch</p>
-                      <h6>Vie_Support@Gmail.Com</h6>
+                      <h6>timstats91@gmail.com</h6>
                     </div>
                   </div>
                   <div class="mail-icon">

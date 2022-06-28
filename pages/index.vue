@@ -17,7 +17,7 @@ export default {
   layout: "dark",
   head() {
     return {
-      titleTemplate: '%s - Freelancer Dark'
+      //titleTemplate: '%s - Freelancer Dark'
     };
   },
   mounted() {

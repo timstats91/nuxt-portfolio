@@ -1,7 +1,7 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: "Vie ",
+    title: "Tim Statler - Web Developer",
     htmlAttrs: {
       lang: "en",
     },
@@ -11,12 +11,12 @@ export default {
       {
         hid: "keywords",
         name: "keywords",
-        content: "Nuxtjs Vue Template vie onepage themeforest",
+        content: "Tim Statler Web Fullstack Developer Portfolio Software JavaScript Nuxtjs Vue MongoDB",
       },
       {
         hid: "description",
         name: "description",
-        content: "vie - Onepage Multi-Purpose Vue Nuxtjs Template",
+        content: "Tim Statler - Web Developer",
       },
       { name: "format-detection", content: "telephone=no" },
     ],

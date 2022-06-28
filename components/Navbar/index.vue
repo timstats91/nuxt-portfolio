@@ -38,109 +38,20 @@
 
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav ml-auto">
-          <li class="nav-item dropdown" @click="handleDropdown">
-            <span
-              class="nav-link dropdown-toggle"
-              data-toggle="dropdown"
-              role="button"
-              aria-haspopup="true"
-              aria-expanded="false"
-            >
-              Home
-            </span>
-            <div class="dropdown-menu">
-              <NuxtLink class="dropdown-item" to="/homepage/home1-dark">
-                Main Home
-              </NuxtLink>
-              <NuxtLink class="dropdown-item" to="/homepage/home2-dark">
-                Creative Agency
-              </NuxtLink>
-              <NuxtLink class="dropdown-item" to="/homepage/home5-dark">
-                Digital Agency
-              </NuxtLink>
-              <NuxtLink class="dropdown-item" to="/homepage/home4-dark">
-                Business One Page
-              </NuxtLink>
-              <NuxtLink class="dropdown-item" to="/homepage/home3-dark">
-                Corporate Business
-              </NuxtLink>
-              <NuxtLink class="dropdown-item" to="/homepage/home6-dark">
-                Modern Agency
-              </NuxtLink>
-              <NuxtLink class="dropdown-item" to="/homepage/home7-dark">
-                Freelancer
-              </NuxtLink>
-              <NuxtLink class="dropdown-item" to="/homepage/home8-dark">
-                Architecture
-              </NuxtLink>
-            </div>
+          <li class="nav-item">
+              <NuxtLink class="nav-link" to="/"> Home </NuxtLink>
           </li>
           <li class="nav-item">
-            <NuxtLink class="nav-link" to="/about/about-dark"> About </NuxtLink>
-          </li>
-          <li class="nav-item dropdown" @click="handleDropdown">
-            <span
-              class="nav-link dropdown-toggle"
-              data-toggle="dropdown"
-              role="button"
-              aria-haspopup="true"
-              aria-expanded="false"
-            >
-              Works
-            </span>
-            <div class="dropdown-menu">
-              <NuxtLink class="dropdown-item" to="/showcase/showcase-dark">
-                Showcase Parallax
-              </NuxtLink>
-              <NuxtLink class="dropdown-item" to="/showcase3/showcase3-dark">
-                Showcase Carousel
-              </NuxtLink>
-              <NuxtLink class="dropdown-item" to="/showcase2/showcase2-dark">
-                Showcase Circle
-              </NuxtLink>
-              <NuxtLink class="dropdown-item" to="/works/works-dark">
-                Portfolio Masonry
-              </NuxtLink>
-              <NuxtLink class="dropdown-item" to="/works2/works2-dark">
-                Portfolio Filtering
-              </NuxtLink>
-              <NuxtLink class="dropdown-item" to="/works3/works3-dark">
-                Portfolio Gallery
-              </NuxtLink>
-            </div>
-          </li>
-          <li class="nav-item dropdown" @click="handleDropdown">
-            <span
-              class="nav-link dropdown-toggle"
-              data-toggle="dropdown"
-              role="button"
-              aria-haspopup="true"
-              aria-expanded="false"
-            >
-              Blog
-            </span>
-            <div class="dropdown-menu">
-              <NuxtLink class="dropdown-item" to="/blog/blog-dark">
-                Blog Standerd
-              </NuxtLink>
-              <NuxtLink class="dropdown-item" to="/blog-list/blog-list-dark">
-                Blog List
-              </NuxtLink>
-              <NuxtLink class="dropdown-item" to="/blog-grid/blog-grid-dark">
-                Blog Grid
-              </NuxtLink>
-              <NuxtLink
-                class="dropdown-item"
-                to="/blog-details/blog-details-dark"
-              >
-                Blog Details
-              </NuxtLink>
-            </div>
+            <NuxtLink class="nav-link" to="/about"> About </NuxtLink>
           </li>
           <li class="nav-item">
-            <NuxtLink class="nav-link" to="/contact/contact-dark">
-              Contact
-            </NuxtLink>
+            <NuxtLink class="nav-link" to="/portfolio"> Portfolio </NuxtLink>
+          </li>
+          <li class="nav-item">
+            <NuxtLink class="nav-link" to="/blog"> Blog </NuxtLink>
+          </li>
+          <li class="nav-item">
+            <NuxtLink class="nav-link" to="/contact"> Contact </NuxtLink>
           </li>
         </ul>
       </div>
