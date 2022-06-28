@@ -1,0 +1,260 @@
+[
+  {
+    "name": "about-about-dark",
+    "path": "/about/about-dark",
+    "component": "C:\\\\Users\\\\tim.statler\\\\Vue Projects\\\\vie_vue\\\\pages\\\\about\\\\about-dark.vue",
+    "chunkName": "pages/about/about-dark"
+  },
+  {
+    "name": "about-about-light",
+    "path": "/about/about-light",
+    "component": "C:\\\\Users\\\\tim.statler\\\\Vue Projects\\\\vie_vue\\\\pages\\\\about\\\\about-light.vue",
+    "chunkName": "pages/about/about-light"
+  },
+  {
+    "name": "blog-details-blog-details-dark",
+    "path": "/blog-details/blog-details-dark",
+    "component": "C:\\\\Users\\\\tim.statler\\\\Vue Projects\\\\vie_vue\\\\pages\\\\blog-details\\\\blog-details-dark.vue",
+    "chunkName": "pages/blog-details/blog-details-dark"
+  },
+  {
+    "name": "blog-details-blog-details-light",
+    "path": "/blog-details/blog-details-light",
+    "component": "C:\\\\Users\\\\tim.statler\\\\Vue Projects\\\\vie_vue\\\\pages\\\\blog-details\\\\blog-details-light.vue",
+    "chunkName": "pages/blog-details/blog-details-light"
+  },
+  {
+    "name": "blog-grid-blog-grid-dark",
+    "path": "/blog-grid/blog-grid-dark",
+    "component": "C:\\\\Users\\\\tim.statler\\\\Vue Projects\\\\vie_vue\\\\pages\\\\blog-grid\\\\blog-grid-dark.vue",
+    "chunkName": "pages/blog-grid/blog-grid-dark"
+  },
+  {
+    "name": "blog-grid-blog-grid-light",
+    "path": "/blog-grid/blog-grid-light",
+    "component": "C:\\\\Users\\\\tim.statler\\\\Vue Projects\\\\vie_vue\\\\pages\\\\blog-grid\\\\blog-grid-light.vue",
+    "chunkName": "pages/blog-grid/blog-grid-light"
+  },
+  {
+    "name": "blog-list-blog-list-dark",
+    "path": "/blog-list/blog-list-dark",
+    "component": "C:\\\\Users\\\\tim.statler\\\\Vue Projects\\\\vie_vue\\\\pages\\\\blog-list\\\\blog-list-dark.vue",
+    "chunkName": "pages/blog-list/blog-list-dark"
+  },
+  {
+    "name": "blog-list-blog-list-light",
+    "path": "/blog-list/blog-list-light",
+    "component": "C:\\\\Users\\\\tim.statler\\\\Vue Projects\\\\vie_vue\\\\pages\\\\blog-list\\\\blog-list-light.vue",
+    "chunkName": "pages/blog-list/blog-list-light"
+  },
+  {
+    "name": "blog-blog-dark",
+    "path": "/blog/blog-dark",
+    "component": "C:\\\\Users\\\\tim.statler\\\\Vue Projects\\\\vie_vue\\\\pages\\\\blog\\\\blog-dark.vue",
+    "chunkName": "pages/blog/blog-dark"
+  },
+  {
+    "name": "blog-blog-light",
+    "path": "/blog/blog-light",
+    "component": "C:\\\\Users\\\\tim.statler\\\\Vue Projects\\\\vie_vue\\\\pages\\\\blog\\\\blog-light.vue",
+    "chunkName": "pages/blog/blog-light"
+  },
+  {
+    "name": "contact-contact-dark",
+    "path": "/contact/contact-dark",
+    "component": "C:\\\\Users\\\\tim.statler\\\\Vue Projects\\\\vie_vue\\\\pages\\\\contact\\\\contact-dark.vue",
+    "chunkName": "pages/contact/contact-dark"
+  },
+  {
+    "name": "contact-contact-light",
+    "path": "/contact/contact-light",
+    "component": "C:\\\\Users\\\\tim.statler\\\\Vue Projects\\\\vie_vue\\\\pages\\\\contact\\\\contact-light.vue",
+    "chunkName": "pages/contact/contact-light"
+  },
+  {
+    "name": "homepage-home1-dark",
+    "path": "/homepage/home1-dark",
+    "component": "C:\\\\Users\\\\tim.statler\\\\Vue Projects\\\\vie_vue\\\\pages\\\\homepage\\\\home1-dark.vue",
+    "chunkName": "pages/homepage/home1-dark"
+  },
+  {
+    "name": "homepage-home1-light",
+    "path": "/homepage/home1-light",
+    "component": "C:\\\\Users\\\\tim.statler\\\\Vue Projects\\\\vie_vue\\\\pages\\\\homepage\\\\home1-light.vue",
+    "chunkName": "pages/homepage/home1-light"
+  },
+  {
+    "name": "homepage-home2-dark",
+    "path": "/homepage/home2-dark",
+    "component": "C:\\\\Users\\\\tim.statler\\\\Vue Projects\\\\vie_vue\\\\pages\\\\homepage\\\\home2-dark.vue",
+    "chunkName": "pages/homepage/home2-dark"
+  },
+  {
+    "name": "homepage-home2-light",
+    "path": "/homepage/home2-light",
+    "component": "C:\\\\Users\\\\tim.statler\\\\Vue Projects\\\\vie_vue\\\\pages\\\\homepage\\\\home2-light.vue",
+    "chunkName": "pages/homepage/home2-light"
+  },
+  {
+    "name": "homepage-home3-dark",
+    "path": "/homepage/home3-dark",
+    "component": "C:\\\\Users\\\\tim.statler\\\\Vue Projects\\\\vie_vue\\\\pages\\\\homepage\\\\home3-dark.vue",
+    "chunkName": "pages/homepage/home3-dark"
+  },
+  {
+    "name": "homepage-home3-light",
+    "path": "/homepage/home3-light",
+    "component": "C:\\\\Users\\\\tim.statler\\\\Vue Projects\\\\vie_vue\\\\pages\\\\homepage\\\\home3-light.vue",
+    "chunkName": "pages/homepage/home3-light"
+  },
+  {
+    "name": "homepage-home4-dark",
+    "path": "/homepage/home4-dark",
+    "component": "C:\\\\Users\\\\tim.statler\\\\Vue Projects\\\\vie_vue\\\\pages\\\\homepage\\\\home4-dark.vue",
+    "chunkName": "pages/homepage/home4-dark"
+  },
+  {
+    "name": "homepage-home4-light",
+    "path": "/homepage/home4-light",
+    "component": "C:\\\\Users\\\\tim.statler\\\\Vue Projects\\\\vie_vue\\\\pages\\\\homepage\\\\home4-light.vue",
+    "chunkName": "pages/homepage/home4-light"
+  },
+  {
+    "name": "homepage-home5-dark",
+    "path": "/homepage/home5-dark",
+    "component": "C:\\\\Users\\\\tim.statler\\\\Vue Projects\\\\vie_vue\\\\pages\\\\homepage\\\\home5-dark.vue",
+    "chunkName": "pages/homepage/home5-dark"
+  },
+  {
+    "name": "homepage-home5-light",
+    "path": "/homepage/home5-light",
+    "component": "C:\\\\Users\\\\tim.statler\\\\Vue Projects\\\\vie_vue\\\\pages\\\\homepage\\\\home5-light.vue",
+    "chunkName": "pages/homepage/home5-light"
+  },
+  {
+    "name": "homepage-home6-dark",
+    "path": "/homepage/home6-dark",
+    "component": "C:\\\\Users\\\\tim.statler\\\\Vue Projects\\\\vie_vue\\\\pages\\\\homepage\\\\home6-dark.vue",
+    "chunkName": "pages/homepage/home6-dark"
+  },
+  {
+    "name": "homepage-home6-light",
+    "path": "/homepage/home6-light",
+    "component": "C:\\\\Users\\\\tim.statler\\\\Vue Projects\\\\vie_vue\\\\pages\\\\homepage\\\\home6-light.vue",
+    "chunkName": "pages/homepage/home6-light"
+  },
+  {
+    "name": "homepage-home7-dark",
+    "path": "/homepage/home7-dark",
+    "component": "C:\\\\Users\\\\tim.statler\\\\Vue Projects\\\\vie_vue\\\\pages\\\\homepage\\\\home7-dark.vue",
+    "chunkName": "pages/homepage/home7-dark"
+  },
+  {
+    "name": "homepage-home7-light",
+    "path": "/homepage/home7-light",
+    "component": "C:\\\\Users\\\\tim.statler\\\\Vue Projects\\\\vie_vue\\\\pages\\\\homepage\\\\home7-light.vue",
+    "chunkName": "pages/homepage/home7-light"
+  },
+  {
+    "name": "homepage-home8-dark",
+    "path": "/homepage/home8-dark",
+    "component": "C:\\\\Users\\\\tim.statler\\\\Vue Projects\\\\vie_vue\\\\pages\\\\homepage\\\\home8-dark.vue",
+    "chunkName": "pages/homepage/home8-dark"
+  },
+  {
+    "name": "homepage-home8-light",
+    "path": "/homepage/home8-light",
+    "component": "C:\\\\Users\\\\tim.statler\\\\Vue Projects\\\\vie_vue\\\\pages\\\\homepage\\\\home8-light.vue",
+    "chunkName": "pages/homepage/home8-light"
+  },
+  {
+    "name": "project-details2-project-details2-dark",
+    "path": "/project-details2/project-details2-dark",
+    "component": "C:\\\\Users\\\\tim.statler\\\\Vue Projects\\\\vie_vue\\\\pages\\\\project-details2\\\\project-details2-dark.vue",
+    "chunkName": "pages/project-details2/project-details2-dark"
+  },
+  {
+    "name": "project-details2-project-details2-light",
+    "path": "/project-details2/project-details2-light",
+    "component": "C:\\\\Users\\\\tim.statler\\\\Vue Projects\\\\vie_vue\\\\pages\\\\project-details2\\\\project-details2-light.vue",
+    "chunkName": "pages/project-details2/project-details2-light"
+  },
+  {
+    "name": "showcase-showcase-dark",
+    "path": "/showcase/showcase-dark",
+    "component": "C:\\\\Users\\\\tim.statler\\\\Vue Projects\\\\vie_vue\\\\pages\\\\showcase\\\\showcase-dark.vue",
+    "chunkName": "pages/showcase/showcase-dark"
+  },
+  {
+    "name": "showcase-showcase-light",
+    "path": "/showcase/showcase-light",
+    "component": "C:\\\\Users\\\\tim.statler\\\\Vue Projects\\\\vie_vue\\\\pages\\\\showcase\\\\showcase-light.vue",
+    "chunkName": "pages/showcase/showcase-light"
+  },
+  {
+    "name": "showcase2-showcase2-dark",
+    "path": "/showcase2/showcase2-dark",
+    "component": "C:\\\\Users\\\\tim.statler\\\\Vue Projects\\\\vie_vue\\\\pages\\\\showcase2\\\\showcase2-dark.vue",
+    "chunkName": "pages/showcase2/showcase2-dark"
+  },
+  {
+    "name": "showcase2-showcase2-light",
+    "path": "/showcase2/showcase2-light",
+    "component": "C:\\\\Users\\\\tim.statler\\\\Vue Projects\\\\vie_vue\\\\pages\\\\showcase2\\\\showcase2-light.vue",
+    "chunkName": "pages/showcase2/showcase2-light"
+  },
+  {
+    "name": "showcase3-showcase3-dark",
+    "path": "/showcase3/showcase3-dark",
+    "component": "C:\\\\Users\\\\tim.statler\\\\Vue Projects\\\\vie_vue\\\\pages\\\\showcase3\\\\showcase3-dark.vue",
+    "chunkName": "pages/showcase3/showcase3-dark"
+  },
+  {
+    "name": "showcase3-showcase3-light",
+    "path": "/showcase3/showcase3-light",
+    "component": "C:\\\\Users\\\\tim.statler\\\\Vue Projects\\\\vie_vue\\\\pages\\\\showcase3\\\\showcase3-light.vue",
+    "chunkName": "pages/showcase3/showcase3-light"
+  },
+  {
+    "name": "works-works-dark",
+    "path": "/works/works-dark",
+    "component": "C:\\\\Users\\\\tim.statler\\\\Vue Projects\\\\vie_vue\\\\pages\\\\works\\\\works-dark.vue",
+    "chunkName": "pages/works/works-dark"
+  },
+  {
+    "name": "works-works-light",
+    "path": "/works/works-light",
+    "component": "C:\\\\Users\\\\tim.statler\\\\Vue Projects\\\\vie_vue\\\\pages\\\\works\\\\works-light.vue",
+    "chunkName": "pages/works/works-light"
+  },
+  {
+    "name": "works2-works2-dark",
+    "path": "/works2/works2-dark",
+    "component": "C:\\\\Users\\\\tim.statler\\\\Vue Projects\\\\vie_vue\\\\pages\\\\works2\\\\works2-dark.vue",
+    "chunkName": "pages/works2/works2-dark"
+  },
+  {
+    "name": "works2-works2-light",
+    "path": "/works2/works2-light",
+    "component": "C:\\\\Users\\\\tim.statler\\\\Vue Projects\\\\vie_vue\\\\pages\\\\works2\\\\works2-light.vue",
+    "chunkName": "pages/works2/works2-light"
+  },
+  {
+    "name": "works3-works3-dark",
+    "path": "/works3/works3-dark",
+    "component": "C:\\\\Users\\\\tim.statler\\\\Vue Projects\\\\vie_vue\\\\pages\\\\works3\\\\works3-dark.vue",
+    "chunkName": "pages/works3/works3-dark"
+  },
+  {
+    "name": "works3-works3-light",
+    "path": "/works3/works3-light",
+    "component": "C:\\\\Users\\\\tim.statler\\\\Vue Projects\\\\vie_vue\\\\pages\\\\works3\\\\works3-light.vue",
+    "chunkName": "pages/works3/works3-light"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\tim.statler\\\\Vue Projects\\\\vie_vue\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
