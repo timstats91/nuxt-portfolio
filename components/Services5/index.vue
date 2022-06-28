@@ -4,9 +4,9 @@
       <div class="row justify-content-center">
         <div class="col-lg-8 col-md-10">
           <div class="sec-head text-center">
-            <h6 class="wow fadeIn" data-wow-delay=".5s">Best Features</h6>
+            <h6 class="wow fadeIn" data-wow-delay=".5s">Top Skills</h6>
             <h3 class="wow color-font">
-              We are a new digital product development agency
+              These are a few of my favorite things...
             </h3>
           </div>
         </div>

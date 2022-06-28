@@ -2,25 +2,25 @@
   {
     "id": 1,
     "icon": "pe-7s-paint-bucket",
-    "title": "Graphic Design",
-    "content": "Tempore corrupti temporibus fuga earum asperiores fugit laudantium."
+    "title": "UI/UX Design & Research",
+    "content": "Research and design experiences for the web using Adobe XD and Figma."
   },
   {
     "id": 2,
-    "icon": "pe-7s-phone",
-    "title": "Web & Mobile Design",
-    "content": "Tempore corrupti temporibus fuga earum asperiores fugit."
+    "icon": "pe-7s-server",
+    "title": "Full-Stack Web Development",
+    "content": "From design to development using Vue/React, MongoDB/MySQL, and Java Spring Boot."
   },
   {
     "id": 3,
     "icon": "pe-7s-display1",
-    "title": "Social Media Marketing",
-    "content": "Tempore corrupti temporibus fuga earum asperiores fugit."
+    "title": "Search Engine Optimization",
+    "content": "Highly optimized technical SEO and content-based SEO via pages and blog posts."
   },
   {
     "id": 4,
-    "icon": "pe-7s-diskette",
-    "title": "Document Legal Policy",
-    "content": "Tempore corrupti temporibus fuga earum asperiores fugit laudantium."
+    "icon": "pe-7s-rocket",
+    "title": "Text & Video Tutorials",
+    "content": "Comp Sci Central blog receives +10k views monthly, YouTube channel has +2k subscribers."
   }
 ]

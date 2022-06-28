@@ -6,8 +6,7 @@
           <div class="sec-head text-center">
             <h6 class="wow fadeIn" data-wow-delay=".5s">Portfolio</h6>
             <h3 class="wow color-font">
-              Our Recent Web Design &amp; <br />
-              Some Past Projects.
+              My Recent Projects
             </h3>
           </div>
         </div>
@@ -18,9 +17,9 @@
         <div class="filtering col-12">
           <div class="filter wow fadeIn" data-wow-delay=".5s">
             <span data-filter="*" class="active"> All </span>
-            <span data-filter=".brand">Branding</span>
-            <span data-filter=".web">Mobile App</span>
-            <span data-filter=".graphic">Creative</span>
+            <span data-filter=".brand">Design</span>
+            <span data-filter=".web">Development</span>
+            <span data-filter=".graphic">SEO</span>
           </div>
         </div>
 
@@ -43,13 +42,13 @@
               </NuxtLink>
               <div class="tags">
                 <span>
-                  <NuxtLink to="#0">App</NuxtLink>
+                  <NuxtLink to="/portfolio">App</NuxtLink>
                 </span>
                 <span>
-                  <NuxtLink to="#0">Fitnes</NuxtLink>
+                  <NuxtLink to="/portfolio">Fitnes</NuxtLink>
                 </span>
                 <span>
-                  <NuxtLink to="#0">Creative</NuxtLink>
+                  <NuxtLink to="/portfolio">Creative</NuxtLink>
                 </span>
               </div>
             </div>
@@ -110,8 +109,7 @@
           </div>
 
           <div
-            class="col-md-6 items web graphic wow fadeInUp"
-            data-wow-delay=".4s"
+            class="col-md-6 items web graphic wow fadeInUp" data-wow-delay=".4s"
           >
             <div class="item-img">
               <div class="cont">
