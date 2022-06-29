@@ -24,31 +24,29 @@
         </div>
 
         <div class="gallery full-width">
-          <div
-            class="col-md-6 items graphic lg-mr wow fadeInUp"
-            data-wow-delay=".4s"
-          >
+          
+          <div class="col-md-6 items web lg-mr wow fadeInUp" data-wow-delay=".4s">
             <div class="item-img">
               <div class="cont">
-                <h6>Creative Mobile App</h6>
-                <p>Ui / Ux creative mobile app design</p>
+                <h6><a href="https://chicagoev.com">ChicagoEV.com</a></h6>
+                <p>Simple Vue/Nuxt web app for EV charger installation.</p>
               </div>
               <NuxtLink
                 class="rota"
                 to="project-details2/project-details2-dark"
               >
-                <img src="/img/portfolio/freelancer/1.jpg" alt="image" />
+                <img src="/img/portfolio/freelancer/Chicago-EV-Nuxt1.jpg" alt="image" />
                 <div class="item-img-overlay"></div>
               </NuxtLink>
               <div class="tags">
                 <span>
-                  <NuxtLink to="/portfolio">App</NuxtLink>
+                  <NuxtLink to="/portfolio">JavaScript</NuxtLink>
                 </span>
                 <span>
-                  <NuxtLink to="/portfolio">Fitnes</NuxtLink>
+                  <NuxtLink to="/portfolio">Vue</NuxtLink>
                 </span>
                 <span>
-                  <NuxtLink to="/portfolio">Creative</NuxtLink>
+                  <NuxtLink to="/portfolio">Nuxt</NuxtLink>
                 </span>
               </div>
             </div>
@@ -57,25 +55,79 @@
           <div class="col-md-6 items web wow fadeInUp" data-wow-delay=".4s">
             <div class="item-img">
               <div class="cont">
-                <h6>Creative Mobile App</h6>
-                <p>Ui / Ux creative mobile app design</p>
+                <h6>IMDB Movie App</h6>
+                <p>Fetches movies with MovieDB API, built with Nuxt and Vue.</p>
               </div>
               <NuxtLink
                 class="rota"
                 to="project-details2/project-details2-dark"
               >
-                <img src="/img/portfolio/freelancer/2.jpg" alt="image" />
+                <img src="/img/portfolio/freelancer/Movie-app-nuxt1.jpg" alt="image" />
                 <div class="item-img-overlay"></div>
               </NuxtLink>
               <div class="tags">
                 <span>
-                  <NuxtLink to="#0">App</NuxtLink>
+                  <NuxtLink to="/portfolio">API</NuxtLink>
                 </span>
                 <span>
-                  <NuxtLink to="#0">Fitnes</NuxtLink>
+                  <NuxtLink to="/portfolio">Vue</NuxtLink>
                 </span>
                 <span>
-                  <NuxtLink to="#0">Creative</NuxtLink>
+                  <NuxtLink to="/portfolio">Nuxt</NuxtLink>
+                </span>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-6 items graphic wow fadeInUp" data-wow-delay=".4s">
+            <div class="item-img">
+              <div class="cont">
+                <h6>Hoists.com</h6>
+                <p>eCommerce website for hoist sales using WordPress and WooCommerce. Positioned to reach $1M+ annual revenue.</p>
+              </div>
+              <NuxtLink
+                class="rota"
+                to="project-details2/project-details2-dark"
+              >
+                <img src="/img/portfolio/freelancer/hoists-seo.jpg" alt="image" />
+                <div class="item-img-overlay"></div>
+              </NuxtLink>
+              <div class="tags">
+                <span>
+                  <NuxtLink to="/portfolio">eCommerce</NuxtLink>
+                </span>
+                <span>
+                  <NuxtLink to="/portfolio">WordPress</NuxtLink>
+                </span>
+                <span>
+                  <NuxtLink to="/portfolio">SEO</NuxtLink>
+                </span>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-6 items brand wow fadeInUp" data-wow-delay=".4s">
+            <div class="item-img">
+              <div class="cont">
+                <h6>SievertCrane.com</h6>
+                <p>UI / UX redesign and rebranding for existing company website using Adobe XD and developed with WordPress.</p>
+              </div>
+              <NuxtLink
+                class="rota"
+                to="project-details2/project-details2-dark"
+              >
+                <img src="/img/portfolio/freelancer/sievert-crane-xd-ux1.jpg" alt="image" />
+                <div class="item-img-overlay"></div>
+              </NuxtLink>
+              <div class="tags">
+                <span>
+                  <NuxtLink to="/portfolio">UI / UX</NuxtLink>
+                </span>
+                <span>
+                  <NuxtLink to="/portfolio">Design</NuxtLink>
+                </span>
+                <span>
+                  <NuxtLink to="/portfolio">Adobe XD</NuxtLink>
                 </span>
               </div>
             </div>
@@ -84,112 +136,60 @@
           <div class="col-md-6 items web wow fadeInUp" data-wow-delay=".4s">
             <div class="item-img">
               <div class="cont">
-                <h6>Creative Mobile App</h6>
-                <p>Ui / Ux creative mobile app design</p>
+                <h6>Web Coder</h6>
+                <p>My senior project for my B.S. in Computer Science created with HTML, CSS, Java (JSP's & Servlets), and a MySQL database.</p>
               </div>
               <NuxtLink
                 class="rota"
                 to="project-details2/project-details2-dark"
               >
-                <img src="/img/portfolio/freelancer/3.jpg" alt="image" />
+                <img src="/img/portfolio/freelancer/webcoder-java1.jpg" alt="image" />
                 <div class="item-img-overlay"></div>
               </NuxtLink>
               <div class="tags">
                 <span>
-                  <NuxtLink to="#0">App</NuxtLink>
+                  <NuxtLink to="/portfolio">HTML</NuxtLink>
                 </span>
                 <span>
-                  <NuxtLink to="#0">Fitnes</NuxtLink>
+                  <NuxtLink to="/portfolio">CSS</NuxtLink>
                 </span>
                 <span>
-                  <NuxtLink to="#0">Creative</NuxtLink>
+                  <NuxtLink to="/portfolio">Java</NuxtLink>
+                </span>
+                <span>
+                  <NuxtLink to="/portfolio">SQL</NuxtLink>
                 </span>
               </div>
             </div>
           </div>
 
-          <div
-            class="col-md-6 items web graphic wow fadeInUp" data-wow-delay=".4s"
-          >
+          <div class="col-md-6 items graphic wow fadeInUp" data-wow-delay=".4s">
             <div class="item-img">
               <div class="cont">
-                <h6>Creative Mobile App</h6>
-                <p>Ui / Ux creative mobile app design</p>
+                <h6>Comp Sci Central</h6>
+                <p>Computer Science blog created with Wordpress. Each blog post generates 250-300 page views monthly.</p>
               </div>
               <NuxtLink
                 class="rota"
                 to="project-details2/project-details2-dark"
               >
-                <img src="/img/portfolio/freelancer/4.jpg" alt="image" />
+                <img src="/img/portfolio/freelancer/CompSciCentral1.jpg" alt="image" />
                 <div class="item-img-overlay"></div>
               </NuxtLink>
               <div class="tags">
                 <span>
-                  <NuxtLink to="#0">App</NuxtLink>
+                  <NuxtLink to="/portfolio">WordPress</NuxtLink>
                 </span>
                 <span>
-                  <NuxtLink to="#0">Fitnes</NuxtLink>
+                  <NuxtLink to="/portfolio">Blog</NuxtLink>
                 </span>
                 <span>
-                  <NuxtLink to="#0">Creative</NuxtLink>
+                  <NuxtLink to="/portfolio">SEO</NuxtLink>
                 </span>
               </div>
             </div>
           </div>
 
-          <div class="col-md-6 items brand wow fadeInUp" data-wow-delay=".4s">
-            <div class="item-img">
-              <div class="cont">
-                <h6>Creative Mobile App</h6>
-                <p>Ui / Ux creative mobile app design</p>
-              </div>
-              <NuxtLink
-                class="rota"
-                to="project-details2/project-details2-dark"
-              >
-                <img src="/img/portfolio/freelancer/5.jpg" alt="image" />
-                <div class="item-img-overlay"></div>
-              </NuxtLink>
-              <div class="tags">
-                <span>
-                  <NuxtLink to="#0">App</NuxtLink>
-                </span>
-                <span>
-                  <NuxtLink to="#0">Fitnes</NuxtLink>
-                </span>
-                <span>
-                  <NuxtLink to="#0">Creative</NuxtLink>
-                </span>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-md-6 items brand wow fadeInUp" data-wow-delay=".4s">
-            <div class="item-img">
-              <div class="cont">
-                <h6>Creative Mobile App</h6>
-                <p>Ui / Ux creative mobile app design</p>
-              </div>
-              <NuxtLink
-                class="rota"
-                to="project-details2/project-details2-dark"
-              >
-                <img src="/img/portfolio/freelancer/6.jpg" alt="image" />
-                <div class="item-img-overlay"></div>
-              </NuxtLink>
-              <div class="tags">
-                <span>
-                  <NuxtLink to="#0">App</NuxtLink>
-                </span>
-                <span>
-                  <NuxtLink to="#0">Fitnes</NuxtLink>
-                </span>
-                <span>
-                  <NuxtLink to="#0">Creative</NuxtLink>
-                </span>
-              </div>
-            </div>
-          </div>
         </div>
       </div>
     </div>
