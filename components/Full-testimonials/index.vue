@@ -17,7 +17,7 @@
           <div class="sec-head text-center">
             <h6 class="wow fadeIn" data-wow-delay=".5s">Testimonials</h6>
             <h3 class="wow color-font">
-              We love our clients from all over the world.
+              What my employers have said about me.
             </h3>
           </div>
         </div>
@@ -40,16 +40,16 @@
                     <div class="img">
                       <img src="/img/clients/1.jpg" alt="" />
                     </div>
-                    <h6 class="author-name color-font">Alex Regelman</h6>
-                    <span class="author-details"> Co-founder, Colabrio </span>
+                    <h6 class="author-name color-font">CJ Williams</h6>
+                    <span class="author-details"> Director of Marketing, Sievert Electric </span>
                   </div>
                 </div>
               </div>
               <p>
-                I would highly recommend Vie Digital. I worked with the team on
-                an animation for our ‘Click &amp; Collect’ service.
+                I initially hired Tim as an intern in college. However, due to his talent, hard work, and attitude, we offered him a full-time role.
               </p>
             </div>
+
             <div class="item">
               <div class="info valign">
                 <div class="cont">
@@ -67,6 +67,7 @@
                 an animation for our ‘Click &amp; Collect’ service.
               </p>
             </div>
+
             <div class="item">
               <div class="info valign">
                 <div class="cont">
@@ -84,6 +85,7 @@
                 an animation for our ‘Click &amp; Collect’ service.
               </p>
             </div>
+
             <div class="item">
               <div class="info valign">
                 <div class="cont">
@@ -101,6 +103,7 @@
                 an animation for our ‘Click &amp; Collect’ service.
               </p>
             </div>
+            
           </VueSlickCarousel>
         </div>
       </div>
