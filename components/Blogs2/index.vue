@@ -5,10 +5,9 @@
         <div class="col-lg-4">
           <div class="head md-mb50">
             <h6 class="back-color">Get The Latest News</h6>
-            <h3>What Our Trending News.</h3>
+            <h3>My Trending News.</h3>
             <p>
-              We provide company and finance service for startups and company
-              business.
+              Read about the applications I'm working on and the things I'm excited about.
             </p>
             <NuxtLink to="#0">
               <span>More Blog Posts</span>
@@ -33,7 +32,7 @@
                 </div>
                 <h5>
                   <NuxtLink to="#0">
-                    How to use solid color combine with simple furnitures.
+                    What Makes A 'Good' Tech Start-Up?
                   </NuxtLink>
                 </h5>
               </div>
@@ -56,7 +55,7 @@
                 </div>
                 <h5>
                   <NuxtLink to="#0">
-                    How to use solid color combine with simple furnitures.
+                    How to use solid color combine
                   </NuxtLink>
                 </h5>
               </div>

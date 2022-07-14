@@ -3,30 +3,51 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-4">
+          <div class="item">
+            <div class="logo">
+              <img src="/img/Tim_Statler_Logo.png" alt="logo" /><span class="color-font">Tim Statler</span>
+            </div>
+            <div class="social">
+              <NuxtLink to="#0">
+                <i class="fab fa-linkedin"></i>
+              </NuxtLink>
+              <NuxtLink to="#0">
+                <i class="fab fa-youtube"></i>
+              </NuxtLink>
+            </div>
+            <div class="copy-right">
+              <p>
+                © 2022, Made with 
+                <span class="icon">❤️</span>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4">
           <div class="item md-mb50">
             <div class="title">
-              <h5>Contact Us</h5>
+              <h5>Contact Me</h5>
             </div>
             <ul>
               <li>
                 <span class="icon pe-7s-map-marker"></span>
                 <div class="cont">
-                  <h6>Officeal Address</h6>
-                  <p>504 White St . Dawsonville, GA 30534 , New York</p>
+                  <h6>Approximate Address</h6>
+                  <p>IL, USA</p>
                 </div>
               </li>
               <li>
                 <span class="icon pe-7s-mail"></span>
                 <div class="cont">
-                  <h6>Email Us</h6>
-                  <p>support@gmail.com</p>
+                  <h6>Email Me</h6>
+                  <p>timstats91@gmail.com</p>
                 </div>
               </li>
               <li>
                 <span class="icon pe-7s-call"></span>
                 <div class="cont">
-                  <h6>Call Us</h6>
-                  <p>+87986451666</p>
+                  <h6>Call or Text</h6>
+                  <p>+18478140711</p>
                 </div>
               </li>
             </ul>
@@ -77,33 +98,6 @@
                 </div>
               </li>
             </ul>
-          </div>
-        </div>
-        <div class="col-lg-4">
-          <div class="item">
-            <div class="logo">
-              <img src="/img/logo-light.png" alt="logo" />
-            </div>
-            <div class="social">
-              <NuxtLink to="#0">
-                <i class="fab fa-facebook-f"></i>
-              </NuxtLink>
-              <NuxtLink to="#0">
-                <i class="fab fa-twitter"></i>
-              </NuxtLink>
-              <NuxtLink to="#0">
-                <i class="fab fa-instagram"></i>
-              </NuxtLink>
-              <NuxtLink to="#0">
-                <i class="fab fa-youtube"></i>
-              </NuxtLink>
-            </div>
-            <div class="copy-right">
-              <p>
-                © 2022, Vie Template. Made with passion by
-                <NuxtLink to="#0">ThemesCamp</NuxtLink>.
-              </p>
-            </div>
           </div>
         </div>
       </div>

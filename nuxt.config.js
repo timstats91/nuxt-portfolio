@@ -8,17 +8,14 @@ export default {
     meta: [
       { charset: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      {
-        hid: "keywords",
-        name: "keywords",
-        content: "Tim Statler Web Fullstack Developer Portfolio Software JavaScript Nuxtjs Vue MongoDB",
-      },
-      {
-        hid: "description",
-        name: "description",
-        content: "Tim Statler - Web Developer",
-      },
+      { hid: "keywords", name: "keywords", content: "Tim Statler, Web Developer, Fullstack Developer, JavaScript, Vue.js, Nuxt.js, Node.js, MongoDB" },
+      { hid: "description", name: "description", content: "Tim Statler is a full-stack web developer specializing in Vue.js, Nuxt.js, Node.js, Express.js, and MongoDB. I love simple, sleek designs and intuitive user experiences." },
       { name: "format-detection", content: "telephone=no" },
+      { hid: 'og:title', property: 'og:title', content: 'Tim Statler: Full-Stack Developer' },
+      { hid: 'og:url', property: 'og:url', content: 'http://tim-statler.herokuapp.com' },
+      { hid: 'og:description', property: 'og:description', content: "Tim Statler is a full-stack web developer specializing in Vue.js, Nuxt.js, Node.js, Express.js, and MongoDB. I love simple, sleek designs and intuitive user experiences." },
+      { hid: 'og:image', property: 'og:image', content: 'http://tim-statler.herokuapp.com/img/Tim-Statler-Full-Stack-Developer.jpg'},
+      { hid: 't-type', name: 'twitter:card', content: 'summary_large_image' },
     ],
     link: [
       { rel: "icon", type: "image/x-icon", href: "/favicon.ico" },
@@ -33,9 +30,7 @@ export default {
     ],
 
     script: [
-      {
-        src: "/js/wow.min.js",
-      },
+      { src: "/js/wow.min.js" },
       { src: "/js/isotope.pkgd.min.js" },
       { src: "/js/pace.min.js" },
       { src: "/js/splitting.min.js" },
