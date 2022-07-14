@@ -14,7 +14,7 @@ export default {
       { hid: 'og:title', property: 'og:title', content: 'Tim Statler: Full-Stack Developer' },
       { hid: 'og:url', property: 'og:url', content: 'http://tim-statler.herokuapp.com' },
       { hid: 'og:description', property: 'og:description', content: "Tim Statler is a full-stack web developer specializing in Vue.js, Nuxt.js, Node.js, Express.js, and MongoDB. I love simple, sleek designs and intuitive user experiences." },
-      { hid: 'og:image', property: 'og:image', content: 'http://tim-statler.herokuapp.com/img/Tim-Statler-Full-Stack-Developer.jpg'},
+      { hid: 'og:image', property: 'og:image', content: 'https://tim-statler.herokuapp.com/img/Tim-Statler-Full-Stack-Developer.jpg'},
       { hid: 't-type', name: 'twitter:card', content: 'summary_large_image' },
     ],
     link: [
