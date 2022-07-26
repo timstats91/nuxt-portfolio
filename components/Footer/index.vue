@@ -4,9 +4,12 @@
       <div class="row">
         <div class="col-lg-4">
           <div class="item">
-            <div class="logo">
-              <img src="/img/Tim_Statler_Logo.png" alt="logo" /><span class="color-font">Tim Statler</span>
+            <div class="title">
+              <h5>Social Media</h5>
             </div>
+            <!-- <div class="logo">
+              <img src="/img/Tim_Statler_Logo.png" alt="logo" /><span class="color-font">Tim Statler</span>
+            </div> -->
             <div class="social">
               <NuxtLink to="#0">
                 <i class="fab fa-linkedin"></i>
@@ -56,47 +59,45 @@
         <div class="col-lg-4">
           <div class="item md-mb50">
             <div class="title">
-              <h5>Recent News</h5>
+              <h5>Recent Projects</h5>
             </div>
             <ul>
               <li>
                 <div class="img">
                   <NuxtLink to="#">
-                    <img src="/img/blog/1.jpg" alt=""
+                    <img src="/img/portfolio/freelancer/Chicago-EV-Nuxt1.jpg" alt=""
                   /></NuxtLink>
                 </div>
                 <div class="sm-post">
                   <NuxtLink to="#">
                     <p>
-                      The Start-Up Ultimate Guide to Make Your WordPress
-                      Journal.
+                      Simple Vue/Nuxt web app for EV charger installation.
                     </p>
-                    <span class="date">14 sep 2022</span>
+                    <span class="date">Nuxt</span>
                   </NuxtLink>
                 </div>
               </li>
               <li>
                 <div class="img">
                   <NuxtLink to="#">
-                    <img src="/img/blog/2.jpg" alt="" />
+                    <img src="/img/portfolio/freelancer/Movie-app-nuxt1.jpg" alt="" />
                   </NuxtLink>
                 </div>
                 <div class="sm-post">
                   <NuxtLink to="#">
                     <p>
-                      The Start-Up Ultimate Guide to Make Your WordPress
-                      Journal.
+                      Fetches movies with MovieDB API, built with Nuxt and Vue.
                     </p>
-                    <span class="date">14 sep 2022</span>
+                    <span class="date">Nuxt / Fetch API</span>
                   </NuxtLink>
                 </div>
               </li>
-              <li>
+              <!-- <li>
                 <div class="subscribe">
                   <input type="text" placeholder="Type Your Email" />
                   <span class="subs pe-7s-paper-plane"></span>
                 </div>
-              </li>
+              </li> -->
             </ul>
           </div>
         </div>

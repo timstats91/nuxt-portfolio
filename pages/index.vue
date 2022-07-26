@@ -2,11 +2,10 @@
   <div>
     <Navbar ref="navbar" />
     <FreelancreIntro />
+    <img type="hidden" url="../static/img/Tim-Statler-Full-Stack-Developer.jpg" />
     <Services5 />
     <Works5 />
     <AboutUs5 />
-    <FullTestimonials showHead />
-    <Blogs2 />
     <SContactForm noLine />
     <Footer />
   </div>

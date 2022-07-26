@@ -1,7 +1,7 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: "Tim Statler - Web Developer",
+    title: "Tim Statler - Full-Stack Developer",
     htmlAttrs: {
       lang: "en",
     },
@@ -63,7 +63,10 @@ export default {
   buildModules: [],
 
   // Modules: https://go.nuxtjs.dev/config-modules
-  modules: [["vue-scrollto/nuxt", { duration: 1000 }]],
+  modules: [
+    ["vue-scrollto/nuxt", { duration: 1000 }],
+    "@nuxt/content"
+  ],
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {

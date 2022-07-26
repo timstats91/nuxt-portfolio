@@ -5,12 +5,13 @@ import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
 const _1b40bedc = () => interopDefault(import('..\\pages\\about.vue' /* webpackChunkName: "pages/about" */))
-const _4e4096ad = () => interopDefault(import('..\\pages\\blog.vue' /* webpackChunkName: "pages/blog" */))
-const _435bd162 = () => interopDefault(import('..\\pages\\blog\\blog-details-dark.vue' /* webpackChunkName: "pages/blog/blog-details-dark" */))
 const _4912cf36 = () => interopDefault(import('..\\pages\\contact.vue' /* webpackChunkName: "pages/contact" */))
 const _6d6c2366 = () => interopDefault(import('..\\pages\\portfolio.vue' /* webpackChunkName: "pages/portfolio" */))
 const _a22cb270 = () => interopDefault(import('..\\pages\\blog-grid\\blog-grid-dark.vue' /* webpackChunkName: "pages/blog-grid/blog-grid-dark" */))
+const _cae2e5e2 = () => interopDefault(import('..\\pages\\blog\\blog.vue' /* webpackChunkName: "pages/blog/blog" */))
+const _435bd162 = () => interopDefault(import('..\\pages\\blog\\blog-details-dark.vue' /* webpackChunkName: "pages/blog/blog-details-dark" */))
 const _f139ca6c = () => interopDefault(import('..\\pages\\projects\\project-details2-dark.vue' /* webpackChunkName: "pages/projects/project-details2-dark" */))
+const _4dd1afed = () => interopDefault(import('..\\pages\\blog\\_slug.vue' /* webpackChunkName: "pages/blog/_slug" */))
 const _12177b57 = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
 
 const emptyFn = () => {}
@@ -29,15 +30,6 @@ export const routerOptions = {
     component: _1b40bedc,
     name: "about"
   }, {
-    path: "/blog",
-    component: _4e4096ad,
-    name: "blog",
-    children: [{
-      path: "blog-details-dark",
-      component: _435bd162,
-      name: "blog-blog-details-dark"
-    }]
-  }, {
     path: "/contact",
     component: _4912cf36,
     name: "contact"
@@ -50,9 +42,21 @@ export const routerOptions = {
     component: _a22cb270,
     name: "blog-grid-blog-grid-dark"
   }, {
+    path: "/blog/blog",
+    component: _cae2e5e2,
+    name: "blog-blog"
+  }, {
+    path: "/blog/blog-details-dark",
+    component: _435bd162,
+    name: "blog-blog-details-dark"
+  }, {
     path: "/projects/project-details2-dark",
     component: _f139ca6c,
     name: "projects-project-details2-dark"
+  }, {
+    path: "/blog/:slug?",
+    component: _4dd1afed,
+    name: "blog-slug"
   }, {
     path: "/",
     component: _12177b57,

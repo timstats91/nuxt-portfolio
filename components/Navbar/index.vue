@@ -48,9 +48,6 @@
             <NuxtLink class="nav-link" to="/portfolio"> Portfolio </NuxtLink>
           </li>
           <li class="nav-item">
-            <NuxtLink class="nav-link" to="/blog"> Blog </NuxtLink>
-          </li>
-          <li class="nav-item">
             <NuxtLink class="nav-link" to="/contact"> Contact </NuxtLink>
           </li>
         </ul>
