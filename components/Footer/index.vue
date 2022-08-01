@@ -3,30 +3,6 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-4">
-          <div class="item">
-            <div class="title">
-              <h5>Social Media</h5>
-            </div>
-            <!-- <div class="logo">
-              <img src="/img/Tim_Statler_Logo.png" alt="logo" /><span class="color-font">Tim Statler</span>
-            </div> -->
-            <div class="social">
-              <NuxtLink to="#0">
-                <i class="fab fa-linkedin"></i>
-              </NuxtLink>
-              <NuxtLink to="#0">
-                <i class="fab fa-youtube"></i>
-              </NuxtLink>
-            </div>
-            <div class="copy-right">
-              <p>
-                © 2022, Made with 
-                <span class="icon">❤️</span>
-              </p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4">
           <div class="item md-mb50">
             <div class="title">
               <h5>Contact Me</h5>
@@ -64,32 +40,32 @@
             <ul>
               <li>
                 <div class="img">
-                  <NuxtLink to="#">
-                    <img src="/img/portfolio/freelancer/Chicago-EV-Nuxt1.jpg" alt=""
-                  /></NuxtLink>
+                  <a href="https://ev-chicago.herokuapp.com">
+                    <img src="/img/portfolio/freelancer/Chicago-EV-Nuxt1.jpg" alt="Nuxt Electric Vehicle Charger application preview"
+                  /></a>
                 </div>
                 <div class="sm-post">
-                  <NuxtLink to="#">
+                  <a href="https://ev-chicago.herokuapp.com">
                     <p>
                       Simple Vue/Nuxt web app for EV charger installation.
                     </p>
                     <span class="date">Nuxt</span>
-                  </NuxtLink>
+                  </a>
                 </div>
               </li>
               <li>
                 <div class="img">
-                  <NuxtLink to="#">
-                    <img src="/img/portfolio/freelancer/Movie-app-nuxt1.jpg" alt="" />
-                  </NuxtLink>
+                  <a href="https://nuxt-imdb.herokuapp.com">
+                    <img src="/img/portfolio/freelancer/Movie-app-nuxt1.jpg" alt="Nuxt IMDB movie application preview" />
+                  </a>
                 </div>
                 <div class="sm-post">
-                  <NuxtLink to="#">
+                  <a href="https://nuxt-imdb.herokuapp.com">
                     <p>
                       Fetches movies with MovieDB API, built with Nuxt and Vue.
                     </p>
                     <span class="date">Nuxt / Fetch API</span>
-                  </NuxtLink>
+                  </a>
                 </div>
               </li>
               <!-- <li>
@@ -99,6 +75,33 @@
                 </div>
               </li> -->
             </ul>
+          </div>
+        </div>
+        <div class="col-lg-4">
+          <div class="item">
+            <div class="title">
+              <h5>Social Media</h5>
+            </div>
+            <!-- <div class="logo">
+              <img src="/img/Tim_Statler_Logo.png" alt="logo" /><span class="color-font">Tim Statler</span>
+            </div> -->
+            <div class="social">
+              <a href="https://www.linkedin.com/in/tim-statler-a325b191/">
+                <i class="fab fa-linkedin"></i>
+              </a>
+              <a href="https://www.youtube.com/c/CompSciCentral">
+                <i class="fab fa-youtube"></i>
+              </a>
+              <a href="https://www.compscicentral.com">
+                <i class="fab fa-wordpress"></i>
+              </a>
+            </div>
+            <div class="copy-right">
+              <p>
+                © 2022 timstatler.com, <br >Made with 
+                <span class="icon">❤️</span>
+              </p>
+            </div>
           </div>
         </div>
       </div>

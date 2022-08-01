@@ -3,9 +3,11 @@
     <Navbar ref="navbar" />
     <FreelancreIntro />
     <img type="hidden" url="../static/img/Tim-Statler-Full-Stack-Developer.jpg" />
-    <Services5 />
+    <Experience1 />
+    <Experience2 />
     <Works5 />
     <AboutUs5 />
+    <Services5 />
     <SContactForm noLine />
     <Footer />
   </div>

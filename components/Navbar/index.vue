@@ -42,12 +42,6 @@
               <NuxtLink class="nav-link" to="/"> Home </NuxtLink>
           </li>
           <li class="nav-item">
-            <NuxtLink class="nav-link" to="/about"> About </NuxtLink>
-          </li>
-          <li class="nav-item">
-            <NuxtLink class="nav-link" to="/portfolio"> Portfolio </NuxtLink>
-          </li>
-          <li class="nav-item">
             <NuxtLink class="nav-link" to="/contact"> Contact </NuxtLink>
           </li>
         </ul>

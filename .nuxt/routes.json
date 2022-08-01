@@ -1,65 +1,56 @@
 [
   {
-    "name": "about",
-    "path": "/about",
-    "component": "C:\\\\Users\\\\tim.statler\\\\Vue Projects\\\\vie_vue\\\\pages\\\\about.vue",
-    "chunkName": "pages/about",
-    "_name": "_1b40bedc"
-  },
-  {
     "name": "contact",
     "path": "/contact",
     "component": "C:\\\\Users\\\\tim.statler\\\\Vue Projects\\\\vie_vue\\\\pages\\\\contact.vue",
-    "chunkName": "pages/contact",
-    "_name": "_4912cf36"
-  },
-  {
-    "name": "portfolio",
-    "path": "/portfolio",
-    "component": "C:\\\\Users\\\\tim.statler\\\\Vue Projects\\\\vie_vue\\\\pages\\\\portfolio.vue",
-    "chunkName": "pages/portfolio",
-    "_name": "_6d6c2366"
+    "chunkName": "pages/contact"
   },
   {
     "name": "blog-grid-blog-grid-dark",
     "path": "/blog-grid/blog-grid-dark",
     "component": "C:\\\\Users\\\\tim.statler\\\\Vue Projects\\\\vie_vue\\\\pages\\\\blog-grid\\\\blog-grid-dark.vue",
-    "chunkName": "pages/blog-grid/blog-grid-dark",
-    "_name": "_a22cb270"
+    "chunkName": "pages/blog-grid/blog-grid-dark"
   },
   {
     "name": "blog-blog",
     "path": "/blog/blog",
     "component": "C:\\\\Users\\\\tim.statler\\\\Vue Projects\\\\vie_vue\\\\pages\\\\blog\\\\blog.vue",
-    "chunkName": "pages/blog/blog",
-    "_name": "_cae2e5e2"
+    "chunkName": "pages/blog/blog"
   },
   {
     "name": "blog-blog-details-dark",
     "path": "/blog/blog-details-dark",
     "component": "C:\\\\Users\\\\tim.statler\\\\Vue Projects\\\\vie_vue\\\\pages\\\\blog\\\\blog-details-dark.vue",
-    "chunkName": "pages/blog/blog-details-dark",
-    "_name": "_435bd162"
+    "chunkName": "pages/blog/blog-details-dark"
+  },
+  {
+    "name": "blog-portfolio",
+    "path": "/blog/portfolio",
+    "component": "C:\\\\Users\\\\tim.statler\\\\Vue Projects\\\\vie_vue\\\\pages\\\\blog\\\\portfolio.vue",
+    "chunkName": "pages/blog/portfolio"
+  },
+  {
+    "name": "projects-about",
+    "path": "/projects/about",
+    "component": "C:\\\\Users\\\\tim.statler\\\\Vue Projects\\\\vie_vue\\\\pages\\\\projects\\\\about.vue",
+    "chunkName": "pages/projects/about"
   },
   {
     "name": "projects-project-details2-dark",
     "path": "/projects/project-details2-dark",
     "component": "C:\\\\Users\\\\tim.statler\\\\Vue Projects\\\\vie_vue\\\\pages\\\\projects\\\\project-details2-dark.vue",
-    "chunkName": "pages/projects/project-details2-dark",
-    "_name": "_f139ca6c"
+    "chunkName": "pages/projects/project-details2-dark"
   },
   {
     "name": "blog-slug",
     "path": "/blog/:slug?",
     "component": "C:\\\\Users\\\\tim.statler\\\\Vue Projects\\\\vie_vue\\\\pages\\\\blog\\\\_slug.vue",
-    "chunkName": "pages/blog/_slug",
-    "_name": "_4dd1afed"
+    "chunkName": "pages/blog/_slug"
   },
   {
     "name": "index",
     "path": "/",
     "component": "C:\\\\Users\\\\tim.statler\\\\Vue Projects\\\\vie_vue\\\\pages\\\\index.vue",
-    "chunkName": "pages/index",
-    "_name": "_12177b57"
+    "chunkName": "pages/index"
   }
 ]

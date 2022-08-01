@@ -4,7 +4,7 @@
       <div class="row justify-content-center">
         <div class="col-lg-8 col-md-10">
           <div class="sec-head text-center">
-            <h6 class="wow fadeIn" data-wow-delay=".5s">Contact Us</h6>
+            <h6 class="wow fadeIn" data-wow-delay=".5s">Contact Me</h6>
             <h3 class="wow color-font">
               Let's Get in Touch And Make Magic Together.
             </h3>
@@ -65,7 +65,7 @@
                   <div class="col-12">
                     <div class="text-center">
                       <NuxtLink to="#0" class="butn bord curve mt-30">
-                        <span>Send Massege</span>
+                        <span>Send Message</span>
                       </NuxtLink>
                     </div>
                   </div>
